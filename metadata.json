@@ -1,0 +1,5 @@
+{
+  "name": "Rap Beat Prompt Engine",
+  "description": "Stack-agnostic prompt generation framework, style vocabulary classifier, quality scorer, and multi-platform adapter for rap, hip-hop, trap, drill, boom bap, and phonk beat creation.",
+  "requestFramePermissions": []
+}

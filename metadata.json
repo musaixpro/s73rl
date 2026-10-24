@@ -1,5 +1,8 @@
 {
-  "name": "Rap Beat Prompt Engine",
-  "description": "Stack-agnostic prompt generation framework, style vocabulary classifier, quality scorer, and multi-platform adapter for rap, hip-hop, trap, drill, boom bap, and phonk beat creation.",
-  "requestFramePermissions": []
+  "name": "MIR Rap History & Beat Odyssey 3D",
+  "description": "An interactive 3D procedural hip-hop journey exploring MIR rap history, Google Maps grounding, live web lore search, voice freestyle transcription, and beat prompt synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
